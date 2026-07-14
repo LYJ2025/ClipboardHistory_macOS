@@ -17,8 +17,8 @@
 
 ## 安装使用
 
-1. 下载 `ClipboardHistory.app`
-2. 拖到 **应用程序** 文件夹
+1. 下载 `ClipboardHistory.app.zip`
+2. 解包后拖到 **应用程序**(application) 文件夹
 3. 双击打开
 
 首次运行可能需要到「系统设置 → 隐私与安全性」中允许运行。
